@@ -17,6 +17,8 @@ mvn archetype:generate -DarchetypeGroupId=io.cucumber -DarchetypeArtifactId=cucu
 7. Run test in cmd prompt by typing:
 mvn test
 
+(In Fail Test Case, we change all expected output in .feature file to 0.)
+
 Excepted result likes below:
 
 -------------------------------------------------------
